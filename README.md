@@ -4,6 +4,8 @@ criação de um banco de dados simples, de uma blibioteca
 para a seguinte atividade foi usado comandos simples do banco de dados
 
 explicações de alguns comandos usados :
+
+
 -- Use o banco de dados "oscar"
 USE oscar;
 
